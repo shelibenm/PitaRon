@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta name="generator" content="Pelican" />
+        <title>lafabepita - Amba</title>
+        <link rel="stylesheet" href="../theme/css/main.css" />
+        <style>
+ .imagedim{ 
+width:150px; 
+height:150px; 
+} </style>
+</head>
+
+<body id="index" class="home">
+        <header id="banner" class="body">
+                <h1><a href="../">lafabepita</a></h1>
+                <nav><ul>
+                    <li><a href="../category/laffa.html">Laffa</a></li>
+                    <li class="active"><a href="../category/pita.html">Pita</a></li>
+                </ul></nav>
+        </header><!-- /#banner -->
+
+            <aside id="featured" class="body">
+                <article>
+                    <h1 class="entry-title"><a href="../index.html">Pita-what?</a></h1>
+<footer class="post-info">
+        <abbr class="published" title="2022-04-05T00:00:00+03:00">
+                Published: Tue 05 April 2022
+        </abbr>
+
+        <address class="vcard author">
+                By                         <a class="url fn" href="../author/me_shel.html">me_shel</a>
+        </address>
+<p>In <a href="../category/amba.html">Pita</a>.</p>
+
+</footer><!-- /.post-info --><hr>
+<h1>amba?</h1>
+<p>some looks alike-
+<br>< a href = "" </a>
+<br> < a href =""  </a> 
+</p>
+
+  </aside><!-- /#featured -->
+      
+                </div>--><!-- /.social -->
+        </section><!-- /#extras -->
+
+        
+
+</body>
+</html>
