@@ -15,11 +15,11 @@
 @import url("fonts.css");
 @import url("pita_ba2.jpg");
 @import url("pita_ba3.jpg");
-@import url("pita_ba1.jpg");@import url("pita_ba5.jpg");
+@import url("pita_ba1.jpg");@import url("pita_ba5.jpg");@import url("pita_ba7.jpg");@import url("pita_ba8.jpg")
 /***** Global *****/
 /* Body */
 body {
-    background-image: url("pita_ba5.jpg");
+    background-image: url("pita_ba8.jpg");
     background-color: #66EB73;
     color: #000305;
     font-size: 87.5%; /* Base font size: 14px */
