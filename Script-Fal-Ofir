@@ -11,5 +11,6 @@
     </head>
     <body>
         <!-- your code goes here... -->
+        <script type="mpy" src="Baby.pyde"></script>
     </body>
 </html>
